@@ -63,6 +63,8 @@ Cocinar la pizza
 	Deslice la pizza fuera de la paleta y sobre la piedra para hornear en el horno
 	Hornear la pizza a 475°F una a la vez hasta que la corteza y el queso estén dorados, 	alrededor de 10 a 15 minutos
 	Cortar en 8 porciones y servir en un plato
+	
+FIN
 
 # Temperaturas
 
