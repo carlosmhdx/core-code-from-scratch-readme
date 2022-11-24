@@ -84,4 +84,28 @@ Mostrar resultado:
 		TR°F
 FIN
 
-# 
+# Volumen
+
+Entrada:
+	Seleccionar la figura a calcular
+	Cubo – Pirámide – Esfera
+Proceso:
+	Si la figura es cubo
+	Introducir longitud lado = L
+	VC = L * L * L
+	Si la figura es pirámide
+	Introducir longitud base = B
+	Introducir longitud altura = A
+	VP = ( 1/3 * ( B * B)) * A
+	Si la figura es una esfera
+	Introducir el radio = R
+	VE = 1/3 * π * R³
+Mostrar resultado:
+	Si la figura es cubo
+	Cubo: VC cms
+	Si la figura es pirámide
+	Pirámide: VP cms
+	Si la figura es una esfera
+	Esfera: VE cms
+FIN
+
